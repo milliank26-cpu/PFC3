@@ -3,7 +3,7 @@
    Never put a Supabase service-role key or other secret in this file.
 */
 window.PFC_CONFIG = {
-  supabaseUrl: "https://itkpmktqogylqtsexwol.supabase.co",
-  supabaseAnonKey: "sb_publishable_xMVWUMXrwZe-Fk1y8UiVDg_87yhU9Wa",
+  supabaseUrl: "https://ruetssgxvicbthzrtxtq.supabase.co",
+  supabaseAnonKey: "sb_publishable_LUmbqPtN-JEeXYthN5C3kw_FTlM88n9",
   demoMode: true
 };
